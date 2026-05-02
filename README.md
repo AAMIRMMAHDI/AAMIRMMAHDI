@@ -12,6 +12,7 @@
 - 🤖 **AI:** Deeply interested in Artificial Intelligence and Automation.
 - 📱 **Mobile & Front:** Building apps with Kotlin and modern Frontend tools.
 - 🛡️ **Security:** Scripting for Network Security and CEH practices.
+- 🐳 **DevOps:** Containerization with Docker.
 - 📈 **Finance:** Digital Marketing expert & Crypto/Forex enthusiast.
 
 ---
@@ -19,27 +20,18 @@
 ### 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://img.shields.io/badge/--3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> &nbsp;
-  <img src="https://img.shields.io/badge/--F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> &nbsp;
-  <img src="https://img.shields.io/badge/--7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /> &nbsp;
-  <img src="https://img.shields.io/badge/--092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> &nbsp;
-  <img src="https://img.shields.io/badge/--000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> &nbsp;
-  <img src="https://img.shields.io/badge/--FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /> &nbsp;
-  <img src="https://img.shields.io/badge/--EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> &nbsp;
-  <img src="https://img.shields.io/badge/--557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" /> &nbsp;
-  <img src="https://img.shields.io/badge/--000000?style=flat-square&logo=hackthebox&logoColor=white" alt="CyberSecurity" /> &nbsp;
-  <img src="https://img.shields.io/badge/--F7931A?style=flat-square&logo=bitcoin&logoColor=white" alt="Bitcoin" /> &nbsp;
-  <img src="https://img.shields.io/badge/--22c55e?style=flat-square&logo=binance&logoColor=white" alt="Trading" />
-</div>
-
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=AAMIRMMAHDI&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Aamir's GitHub Stats" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAMIRMMAHDI&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=AAMIRMMAHDI&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://cdn.simpleicons.org/python/a9a9a9" width="48" alt="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/a9a9a9" width="48" alt="JavaScript" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kotlin/a9a9a9" width="48" alt="Kotlin" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/django/a9a9a9" width="48" alt="Django" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flask/a9a9a9" width="48" alt="Flask" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/a9a9a9" width="48" alt="TensorFlow" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/a9a9a9" width="48" alt="PyTorch" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/a9a9a9" width="48" alt="Docker" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux/a9a9a9" width="48" alt="Kali Linux" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/hackthebox/a9a9a9" width="48" alt="CyberSecurity" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/bitcoin/a9a9a9" width="48" alt="Bitcoin" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/binance/a9a9a9" width="48" alt="Trading" />
 </div>
 
 <br />
