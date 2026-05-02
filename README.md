@@ -11,22 +11,14 @@
 - 🔭 I’m currently working on my personal projects like **C_CHAT** and **C_DRIVE**.
 - 🌱 I’m currently learning deeper concepts in **Cybersecurity** and **Modern Web Development**.
 - 💬 Ask me about **Python, Django, or Linux**.
-- 📫 How to reach me: Check the links below!
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Security"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,flask,js,react,html,kotlin,bash,linux,github&perline=5" alt="My Skills" />
+  </a>
 </p>
 
 ---
@@ -50,17 +42,5 @@
   </a>
   <a href="https://github.com/AAMIRMMAHDI/C_DRIVE">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AAMIRMMAHDI&repo=C_DRIVE&theme=tokyonight&hide_border=true" alt="C_DRIVE" width="48%" />
-  </a>
-</p>
-
----
-
-### 📫 Let's Connect
-<p align="center">
-  <a href="mailto:ایمیل_شما@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://t.me/آیدی_تلگرام_شما">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
