@@ -12,7 +12,7 @@
 - 🤖 **AI:** Deeply interested in Artificial Intelligence and Automation.
 - 📱 **Mobile & Front:** Building apps with Kotlin and modern Frontend tools.
 - 🛡️ **Security:** Scripting for Network Security and CEH practices.
-- 🐳 **DevOps:** Containerization with Docker.
+- 🐳 **DevOps & VCS:** Containerization with Docker and version control with Git.
 - 📈 **Finance:** Digital Marketing expert & Crypto/Forex enthusiast.
 
 ---
@@ -28,6 +28,7 @@
   <img src="https://cdn.simpleicons.org/django/a9a9a9" width="48" alt="Django" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/flask/a9a9a9" width="48" alt="Flask" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker/a9a9a9" width="48" alt="Docker" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/a9a9a9" width="48" alt="Git" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CEH-a9a9a9?style=for-the-badge" alt="CEH" style="vertical-align: top; margin-top: 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/hackthebox/a9a9a9" width="48" alt="CyberSecurity" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
