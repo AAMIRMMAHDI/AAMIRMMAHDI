@@ -27,7 +27,7 @@ I am a developer and tech enthusiast active in various fields, from software eng
 
 ## 📊 Skills Distribution
 
-*(This chart uses GitHub's native Mermaid integration and loads instantly without external image servers)*
+*(This chart uses GitHub's native Mermaid integration and loads instantly)*
 ```mermaid
 pie title My Tech Stack & Skills
 "Python (Django & Flask)" : 45
@@ -48,4 +48,26 @@ Here is a text-based overview of my proficiency with various tools:
 * **Kotlin & Mobile:** ██████░░░░ (Intermediate)
 
 ---
-> 💡 **Note:** This profile is built using standard Markdown and Mermaid.js to ensure it is lightweight, fully customizable, and independent of external image hosting services.
+
+## 🚀 My Projects
+
+Here are some of my pinned and active repositories:
+
+* 🔹 **[C_CHAT](https://github.com/AAMIRMMAHDI/C_CHAT)** - Web/HTML based project.
+* 🔹 **[C_DRIVE](https://github.com/AAMIRMMAHDI/C_DRIVE)** - Python based project.
+* 🔹 **[C](https://github.com/AAMIRMMAHDI/C)** - General repository.
+
+---
+
+## 📫 Let's Connect!
+
+*(Replace the brackets with your actual links/IDs)*
+* 📧 **Email:** [Your_Email@example.com]
+* 💬 **Telegram:** [@Your_Telegram_ID]
+
+---
+> 💡 **Note:** This profile is built using standard Markdown and Mermaid.js to ensure it is lightweight, fully customizable, and works perfectly without external internet dependencies.
+
+
+**تغییراتی که اعمال شد:**
+1. سه عدد بکتیک (
