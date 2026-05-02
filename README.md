@@ -1,6 +1,14 @@
-# 👋 Hi! I'm Amirmahdi (AAMIRMMAHDI)
+<h1 align="center">👋 Hi! I'm Amirmahdi (AAMIRMMAHDI)</h1>
+<h3 align="center">Full-Stack Developer | Security & Financial Markets Enthusiast</h3>
 
-**Full-Stack Developer | Security & Financial Markets Enthusiast**
+<br/>
+
+<p align="center">
+  <a href="https://github.com/AAMIRMMAHDI">
+    <!-- این کارت آمار گیت‌هاب شما را به صورت خودکار نشان می‌دهد -->
+    <img src="https://github-readme-stats.vercel.app/api?username=AAMIRMMAHDI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Amirmahdi's GitHub Stats" />
+  </a>
+</p>
 
 ---
 
@@ -12,62 +20,55 @@ I am a developer and tech enthusiast active in various fields, from software eng
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technologies & Tools
 
-*To ensure fast loading without external dependencies, my skills are categorized below:*
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| 💻 **Backend & AI** | Python, Django, Flask, AI/ML |
-| 📱 **Frontend & Mobile** | JavaScript, React, HTML, Kotlin |
-| 🛡️ **Security & Networking** | CEH Principles, Network Security, Bash Scripting |
-| 📈 **Finance & Business** | Forex, Cryptocurrency, Digital Marketing |
-
----
-
-## 📊 Skills Distribution
-
-*(This chart uses GitHub's native Mermaid integration and loads instantly)*
-```mermaid
-pie title My Tech Stack & Skills
-"Python (Django & Flask)" : 45
-"Frontend (React & JS)" : 20
-"Mobile (Kotlin)" : 15
-"Security & Scripting" : 10
-"AI & Machine Learning" : 10
-
----
-
-## 📈 Proficiency Levels
-
-Here is a text-based overview of my proficiency with various tools:
-
-* **Python:** ██████████ (Advanced)
-* **Web (HTML/JS/Django):** ████████░░ (Proficient)
-* **Security (CEH/Network):** ███████░░░ (Upper Intermediate)
-* **Kotlin & Mobile:** ██████░░░░ (Intermediate)
+<p align="left">
+  <!-- Backend & AI -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <!-- Frontend & Mobile -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <!-- Security & System -->
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security" />
+</p>
 
 ---
 
 ## 🚀 My Projects
 
-Here are some of my pinned and active repositories:
+<p align="center">
+  <a href="https://github.com/AAMIRMMAHDI/C_CHAT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AAMIRMMAHDI&repo=C_CHAT&theme=tokyonight&hide_border=true" alt="C_CHAT" />
+  </a>
+  <a href="https://github.com/AAMIRMMAHDI/C_DRIVE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AAMIRMMAHDI&repo=C_DRIVE&theme=tokyonight&hide_border=true" alt="C_DRIVE" />
+  </a>
+</p>
 
-* 🔹 **[C_CHAT](https://github.com/AAMIRMMAHDI/C_CHAT)** - Web/HTML based project.
-* 🔹 **[C_DRIVE](https://github.com/AAMIRMMAHDI/C_DRIVE)** - Python based project.
-* 🔹 **[C](https://github.com/AAMIRMMAHDI/C)** - General repository.
+---
+
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAMIRMMAHDI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Let's Connect!
 
-*(Replace the brackets with your actual links/IDs)*
-* 📧 **Email:** [Your_Email@example.com]
-* 💬 **Telegram:** [@Your_Telegram_ID]
-
----
-> 💡 **Note:** This profile is built using standard Markdown and Mermaid.js to ensure it is lightweight, fully customizable, and works perfectly without external internet dependencies.
-
-
-**تغییراتی که اعمال شد:**
-1. سه عدد بکتیک (
+<p align="left">
+  <!-- آدرس ایمیل و آیدی تلگرام خود را در لینک‌های زیر جایگزین کنید -->
+  <a href="mailto:Your_Email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/Your_Telegram_ID">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
