@@ -1,11 +1,6 @@
 # 👋 Hi there, I'm Aamir Mahdi!
 ### 🚀 Full-Stack Developer | AI Enthusiast | Cyber Security & Fintech Explorer
 
-<!-- 🎬 انیمیشن معرفی اولیه -->
-<div align="center">
-  <img src="./assets/intro.gif" alt="Intro Animation" width="600" />
-</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+%26+Django+Developer;AI+%26+Machine+Learning;Cyber+Security+(CEH);Forex+%26+Crypto+Analyst" alt="Typing SVG" />
 </div>
@@ -41,3 +36,9 @@
 <br />
 
 > "Coding the future, securing the present." 🚀
+
+
+
+
+
+
