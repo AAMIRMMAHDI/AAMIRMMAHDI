@@ -1,10 +1,6 @@
 # 👋 Hi there, I'm Aamir Mahdi!
 ### 🚀 Full-Stack Developer | AI Enthusiast | Cyber Security & Fintech Explorer
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+%26+Django+Developer;AI+%26+Machine+Learning;Cyber+Security+(CEH);Forex+%26+Crypto+Analyst" alt="Typing SVG" />
-</div>
-
 ---
 
 ### 👨‍💻 About Me
@@ -16,26 +12,27 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack – Languages & Tools (with icons)
 
-| Category | Tools & Languages |
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/--3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/--F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/--7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| **Backend** | ![Django](https://img.shields.io/badge/--092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/--000000?style=flat-square&logo=flask&logoColor=white) |
-| **AI & Data** | ![TensorFlow](https://img.shields.io/badge/--FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/--EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
-| **Security** | ![Kali Linux](https://img.shields.io/badge/--557C94?style=flat-square&logo=kali-linux&logoColor=white) ![CyberSecurity](https://img.shields.io/badge/--000000?style=flat-square&logo=hackthebox&logoColor=white) |
-| **Fintech** | ![Bitcoin](https://img.shields.io/badge/--F7931A?style=flat-square&logo=bitcoin&logoColor=white) ![Trading](https://img.shields.io/badge/--22c55e?style=flat-square&logo=binance&logoColor=white) |
+| **Languages** | 🐍 Python | 🟨 JavaScript | 🟪 Kotlin | 🟦 TypeScript | 🟩 HTML5/CSS3 |
+| **Backend** | 🦄 Django | 🌶️ Flask | 🟢 Node.js |
+| **AI & Data** | 🧠 TensorFlow | 🔥 PyTorch | 📊 Pandas | 📈 NumPy |
+| **Security** | 🐉 Kali Linux | 🛡️ CEH | 🔐 Wireshark | 🧰 Metasploit |
+| **Fintech** | ₿ Bitcoin | 💱 Forex | 📉 Crypto Trading |
+
+> *تمامی آیکون‌ها ایموجی هستند و نیاز به اتصال به اینترنت برای نمایش تصویر ندارند.*
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Stats (Personal – بدون سرویس خارجی)
 
-<div align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=AAMIRMMAHDI&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Aamir's GitHub Stats" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAMIRMMAHDI&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=AAMIRMMAHDI&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
+چون به سرویس‌های خارجی دسترسی ندارید، آمار و نمودارها به صورت دستی و متنی در اینجا قرار می‌گیرد.  
+می‌توانید به‌روزرسانی خودکار را با استفاده از **GitHub Actions** (در آینده) اضافه کنید.
 
-<br />
-
-> "Coding the future, securing the present." 🚀
+```text
+📁 Repositories:     ▰▰▰▰▰▰▰▰▰▰ (بروزرسانی دستی)
+⭐ Total Stars:      42
+👥 Followers:        7
+📅 Contributions:    فعال در ۲۰۲۵
