@@ -20,11 +20,11 @@
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/--3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/--F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/--7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| **Backend** | ![Django](https://img.shields.io/badge/--092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/--000000?style=flat-square&logo=flask&logoColor=white) |
-| **AI & Data** | ![TensorFlow](https://img.shields.io/badge/--FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/--EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
-| **Security** | ![Kali Linux](https://img.shields.io/badge/--557C94?style=flat-square&logo=kali-linux&logoColor=white) ![CyberSecurity](https://img.shields.io/badge/--000000?style=flat-square&logo=hackthebox&logoColor=white) |
-| **Fintech** | ![Bitcoin](https://img.shields.io/badge/--F7931A?style=flat-square&logo=bitcoin&logoColor=white) ![Trading](https://img.shields.io/badge/--22c55e?style=flat-square&logo=binance&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/--3776AB?style=flat-square&logo=python&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/--F7DF1E?style=flat-square&logo=javascript&logoColor=black) &nbsp; ![Kotlin](https://img.shields.io/badge/--7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/--092E20?style=flat-square&logo=django&logoColor=white) &nbsp; ![Flask](https://img.shields.io/badge/--000000?style=flat-square&logo=flask&logoColor=white) |
+| **AI & Data** | ![TensorFlow](https://img.shields.io/badge/--FF6F00?style=flat-square&logo=tensorflow&logoColor=white) &nbsp; ![PyTorch](https://img.shields.io/badge/--EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| **Security** | ![Kali Linux](https://img.shields.io/badge/--557C94?style=flat-square&logo=kali-linux&logoColor=white) &nbsp; ![CyberSecurity](https://img.shields.io/badge/--000000?style=flat-square&logo=hackthebox&logoColor=white) |
+| **Fintech** | ![Bitcoin](https://img.shields.io/badge/--F7931A?style=flat-square&logo=bitcoin&logoColor=white) &nbsp; ![Trading](https://img.shields.io/badge/--22c55e?style=flat-square&logo=binance&logoColor=white) |
 
 ---
 
