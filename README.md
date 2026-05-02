@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="loader.svg" alt="Loading..." width="120" />
+  <br/><br/>
+</div>
+
 # 👋 Hi there, I'm Aamir Mahdi!
 ### 🚀 Full-Stack Developer | AI Enthusiast | Cyber Security & Fintech Explorer
 
