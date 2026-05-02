@@ -1,56 +1,40 @@
-# 👨‍💻 AAMIRMMAHDI
+# Ali (AAMIRMMAHDI)
 
-> **Software Developer | Security Enthusiast | Financial Trader**
+`Full‑Stack Developer | Security & Financial Markets`
 
-Welcome to my GitHub profile. I specialize in building secure software, automating processes, and analyzing financial markets. Everything here is natively built for GitHub.
-
----
-
-### 📊 My Expertise Area
-```mermaid
-pie title Skill Distribution
-"Backend (Python, Django, Flask)" : 35
-"Security & Network (CEH)" : 25
-"AI & Data" : 15
-"Markets (Forex, Crypto)" : 15
-"Mobile (Kotlin)" : 10
+📍 Iran — Building reliable, heavy‑duty tools in development, security, and market analysis.
 
 ---
 
-### 🛠️ Technical & Business Stack
+## ▸ Technical Skills
 
-| Category | Skills & Technologies |
-| :--- | :--- |
-| **Backend & Web** | Python, Django, Flask |
-| **Mobile Development** | Kotlin |
-| **Security & Systems** | Ethical Hacking (CEH), Network Security, Bash Scripting |
-| **AI & Data** | Artificial Intelligence |
-| **Business & Markets**| Forex, Cryptocurrency, Digital Marketing |
+**▪︎ Development & AI**  
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-333333?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-333333?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-333333?style=flat&logo=kotlin&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI/ML-333333?style=flat)
 
----
+**▪︎ Security & Networking**  
+![CEH](https://img.shields.io/badge/CEH-333333?style=flat)
+![Network Security](https://img.shields.io/badge/Network_Security-333333?style=flat)
+![Scripting](https://img.shields.io/badge/Scripting-333333?style=flat)
 
-### ⚙️ My Development Workflow
-
-mermaid
-graph LR
-A[Requirement] --> B(Architecture)
-B --> C{Coding & AI}
-C -->|Backend| D[Python/Django]
-C -->|Mobile| E[Kotlin]
-D --> F((Security Check))
-E --> F
-F --> G[Deployment]
+**▪︎ Markets & Digital Marketing**  
+![Forex](https://img.shields.io/badge/Forex-333333?style=flat)
+![Crypto](https://img.shields.io/badge/Crypto-333333?style=flat)
+![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-333333?style=flat)
 
 ---
 
-### 📬 Contact
+## ▸ GitHub Stats
 
-- **GitHub:** @AAMIRMMAHDI
-- *(Add your local email or contact info here)*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAMIRMMAHDI&show_icons=true&bg_color=2d2d2d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc&border_color=444444)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAMIRMMAHDI&layout=compact&bg_color=2d2d2d&title_color=ffffff&text_color=cccccc&border_color=444444)
 
-**تغییرات انجام شده:**
-۱. تمام عکس‌ها، نشان‌ها (Badges) و لینک‌های خارجی حذف شدند تا مشکل لود نشدن در اینترنت داخلی حل شود.
-۲. از چارت‌های داخلی گیت‌هاب (`Mermaid`) برای رسم نمودار مهارت‌ها و فلوچارت استفاده شد که کاملاً روی گیت‌هاب باز می‌شود.
-۳. مهارت‌ها در یک جدول بسیار مرتب و تمیز دسته‌بندی شدند.
-۴. نام‌ها کاملاً روی پروفایل شما (AAMIRMMAHDI) شخصی‌سازی شد.
+---
+
+> Pure gray, minimal, solid — no clutter, no broken layout.
