@@ -1,46 +1,43 @@
-<h1 align="center">Hi there, I'm Amirmahdi 👋</h1>
-<h3 align="center">Full-Stack Developer | Security & Financial Markets Enthusiast</h3>
+# 👋 Hi, I'm Amirmahdi
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=I'm+a+Full-Stack+Developer;Passionate+about+Cybersecurity;Enthusiast+of+Financial+Markets;Always+learning+new+technologies" alt="Typing SVG" />
-</p>
+A passionate Developer, Tech Enthusiast, and Multi-disciplinary Professional. 
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on my personal projects like **C_CHAT** and **C_DRIVE**.
-- 🌱 I’m currently learning deeper concepts in **Cybersecurity** and **Modern Web Development**.
-- 💬 Ask me about **Python, Django, or Linux**.
+## ⚙️ About Me
+I specialize in a diverse range of technologies, from Software Engineering and AI to Network Security and Financial Markets. I focus on building robust, scalable solutions with a minimalist approach.
+
+- 💻 **Software Development:** Python (Django, Flask), Frontend, & Mobile (Kotlin)
+- 🤖 **Advanced Tech:** Artificial Intelligence & Scripting
+- 🛡️ **Security & Network:** CEH principles, Network Security
+- 📈 **Markets & Business:** Digital Marketing, Forex, & Cryptocurrency
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,flask,js,react,html,kotlin,bash,linux,github&perline=5" alt="My Skills" />
-  </a>
-</p>
+## 🛠️ Tech Stack & Skills
+
+### Backend & AI
+![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-333333?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/AI_&_Machine_Learning-333333?style=for-the-badge&logo=openai&logoColor=white)
+
+### Frontend & Mobile
+![Frontend Development](https://img.shields.io/badge/Frontend_Development-333333?style=for-the-badge&logo=react&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-333333?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Security, Scripting & Finance
+![Cyber Security](https://img.shields.io/badge/CEH_&_Security-333333?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Scripting](https://img.shields.io/badge/Bash_Scripting-333333?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Crypto & Forex](https://img.shields.io/badge/Crypto_&_Forex-333333?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-333333?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AAMIRMMAHDI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAMIRMMAHDI&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAMIRMMAHDI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🚀 My Projects
-<p align="center">
-  <a href="https://github.com/AAMIRMMAHDI/C_CHAT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AAMIRMMAHDI&repo=C_CHAT&theme=tokyonight&hide_border=true" alt="C_CHAT" width="48%" />
-  </a>
-  <a href="https://github.com/AAMIRMMAHDI/C_DRIVE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AAMIRMMAHDI&repo=C_DRIVE&theme=tokyonight&hide_border=true" alt="C_DRIVE" width="48%" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AAMIRMMAHDI&show_icons=true&bg_color=1c1c1c&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&border_color=333333&hide_border=true" alt="AAMIRMMAHDI's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAMIRMMAHDI&layout=compact&bg_color=1c1c1c&title_color=ffffff&text_color=a3a3a3&border_color=333333&hide_border=true" alt="Top Languages" />
+</div>
