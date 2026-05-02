@@ -20,22 +20,22 @@
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/--3776AB?style=flat-square&logo=python&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/--F7DF1E?style=flat-square&logo=javascript&logoColor=black) &nbsp; ![Kotlin](https://img.shields.io/badge/--7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| **Backend** | ![Django](https://img.shields.io/badge/--092E20?style=flat-square&logo=django&logoColor=white) &nbsp; ![Flask](https://img.shields.io/badge/--000000?style=flat-square&logo=flask&logoColor=white) |
-| **AI & Data** | ![TensorFlow](https://img.shields.io/badge/--FF6F00?style=flat-square&logo=tensorflow&logoColor=white) &nbsp; ![PyTorch](https://img.shields.io/badge/--EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
-| **Security** | ![Kali Linux](https://img.shields.io/badge/--557C94?style=flat-square&logo=kali-linux&logoColor=white) &nbsp; ![CyberSecurity](https://img.shields.io/badge/--000000?style=flat-square&logo=hackthebox&logoColor=white) |
-| **Fintech** | ![Bitcoin](https://img.shields.io/badge/--F7931A?style=flat-square&logo=bitcoin&logoColor=white) &nbsp; ![Trading](https://img.shields.io/badge/--22c55e?style=flat-square&logo=binance&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **AI & Data** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Security** | ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![CEH](https://img.shields.io/badge/-CEH-000000?style=flat-square) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) |
+| **Fintech** | ![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white) ![Forex](https://img.shields.io/badge/-Forex-22c55e?style=flat-square) |
 
 ---
 
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=AAMIRMMAHDI&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Aamir's GitHub Stats" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAMIRMMAHDI&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=AAMIRMMAHDI&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AAMIRMMAHDI&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAMIRMMAHDI&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </div>
 
-<br />
+---
 
 > "Coding the future, securing the present." 🚀
