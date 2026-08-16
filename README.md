@@ -15,9 +15,6 @@
 - 🐳 **DevOps & VCS:** Containerization with Docker and version control with Git.
 - 📈 **Finance:** Digital Marketing expert & Crypto/Forex enthusiast.
 
----
-
-### 🛠 Tech Stack
 
 <br />
 
