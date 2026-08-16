@@ -19,20 +19,6 @@
 
 ### 🛠 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/python/a9a9a9" width="48" alt="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/html5/a9a9a9" width="48" alt="HTML5" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="48" alt="CSS3" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/a9a9a9" width="48" alt="JavaScript" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kotlin/a9a9a9" width="48" alt="Kotlin" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/django/a9a9a9" width="48" alt="Django" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/flask/a9a9a9" width="48" alt="Flask" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/a9a9a9" width="48" alt="Docker" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/a9a9a9" width="48" alt="Git" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CEH-a9a9a9?style=for-the-badge" alt="CEH" style="vertical-align: top; margin-top: 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/hackthebox/a9a9a9" width="48" alt="CyberSecurity" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
 <br />
 
 > "Coding the future, securing the present." 🚀
